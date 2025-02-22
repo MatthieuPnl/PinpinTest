@@ -1,0 +1,11 @@
+Model Information:
+* title:	NTGL CasinoKat
+* source:	https://sketchfab.com/3d-models/ntgl-casinokat-2f292a3713384fbb8064f8800a9e2035
+* author:	Neberkenezer (https://sketchfab.com/neberkenezer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NTGL CasinoKat" (https://sketchfab.com/3d-models/ntgl-casinokat-2f292a3713384fbb8064f8800a9e2035) by Neberkenezer (https://sketchfab.com/neberkenezer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

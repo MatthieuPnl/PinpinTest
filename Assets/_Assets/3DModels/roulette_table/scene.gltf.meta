@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: c0e7df8321b9f7d4fa7e3efb24a68ee7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Sketchfab-14.88.0
+
+    <b>Version: </b>2.0
+
+    
+
+    <b>Extras:
+    </b>
+
+    "author": "Tameranian (https://sketchfab.com/tameranian)"
+
+    "license":
+    "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+
+    "source": "https://sketchfab.com/3d-models/roulette-table-f276b7fc198e4556932c7b52761e409c"
+
+    "title":
+    "Roulette Table"
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: 1967244272384359422, guid: c0e7df8321b9f7d4fa7e3efb24a68ee7, type: 3}
+  - {fileID: -1924551387517788027, guid: c0e7df8321b9f7d4fa7e3efb24a68ee7, type: 3}
+  - {fileID: -7138092269131073482, guid: c0e7df8321b9f7d4fa7e3efb24a68ee7, type: 3}
+  textures:
+  - {fileID: 2800000, guid: 7e581e251505f4c4cb5921806d6225b5, type: 3}
+  - {fileID: 2800000, guid: 02c68284fa382d14ca24848d614773d9, type: 3}
+  - {fileID: 2800000, guid: b0a07e6cc5efa1749b8cb9fefd87817b, type: 3}
+  - {fileID: 2800000, guid: 2666c3c7d1e75114eb6378754c5e51c1, type: 3}
+  - {fileID: 2800000, guid: cbbe128d7cd4f1a468d3a40678a23fc5, type: 3}
+  - {fileID: 2800000, guid: 02dbe8135937d4940a83cf3a0fd1473b, type: 3}
+  - {fileID: 2800000, guid: 19aca182f2d7d4d4dbbabd7702ed95b0, type: 3}
+  - {fileID: 2800000, guid: 21ffd7f568e348947ad12b3b4fda8084, type: 3}
+  - {fileID: 2800000, guid: 40fcf12ef3d61bf4b90f083d6ab5af62, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions: []
+  _textures:
+  - texture: {fileID: 2800000, guid: 7e581e251505f4c4cb5921806d6225b5, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 02c68284fa382d14ca24848d614773d9, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: b0a07e6cc5efa1749b8cb9fefd87817b, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 2666c3c7d1e75114eb6378754c5e51c1, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: cbbe128d7cd4f1a468d3a40678a23fc5, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 02dbe8135937d4940a83cf3a0fd1473b, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 19aca182f2d7d4d4dbbabd7702ed95b0, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 21ffd7f568e348947ad12b3b4fda8084, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 40fcf12ef3d61bf4b90f083d6ab5af62, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []

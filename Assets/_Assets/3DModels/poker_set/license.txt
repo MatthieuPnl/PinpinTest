@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poker set
+* source:	https://sketchfab.com/3d-models/poker-set-841e271f392b4b3187b19fbdbb81ef62
+* author:	Matth_mat (https://sketchfab.com/Matth_mat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poker set" (https://sketchfab.com/3d-models/poker-set-841e271f392b4b3187b19fbdbb81ef62) by Matth_mat (https://sketchfab.com/Matth_mat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

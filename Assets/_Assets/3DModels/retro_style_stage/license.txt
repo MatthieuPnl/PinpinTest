@@ -1,0 +1,11 @@
+Model Information:
+* title:	Retro style stage
+* source:	https://sketchfab.com/3d-models/retro-style-stage-54b1f0860599454c92ad8e2aaa68cb56
+* author:	Mayantique (https://sketchfab.com/mayantique)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Retro style stage" (https://sketchfab.com/3d-models/retro-style-stage-54b1f0860599454c92ad8e2aaa68cb56) by Mayantique (https://sketchfab.com/mayantique) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
